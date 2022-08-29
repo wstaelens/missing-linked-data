@@ -31,6 +31,21 @@
     "@type": "Event",
     "sameAs": "https://en.wikipedia.org/wiki/World_War_I"
   }
+},
+{
+  "@context": "https://schema.org/",
+  "@type": "Photograph",
+  "sameAs": "https://www.iwm.org.uk/collections/item/object/205285574",
+  "contentLocation": {
+    "@type": "City",
+    "name": "Pervijze",
+    "sameAs": [
+        "https://www.geonames.org/2789160/pervijze.html",
+        "http://vocab.getty.edu/page/tgn/1026675"
+    ]
+  },
+  "recordedAt": {
+    "@type": "Event",
+    "sameAs": "https://en.wikipedia.org/wiki/World_War_I"
+  }
 }]
-
-
