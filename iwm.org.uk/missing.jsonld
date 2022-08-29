@@ -1,0 +1,16 @@
+[{
+  "@context": "https://schema.org/",
+  "@type": "Photograph",
+  "sameAs": "https://www.iwm.org.uk/collections/item/object/205285579",
+  "contentLocation": {
+    "@type": "City",
+    "sameAs": [
+        "https://www.geonames.org/2793452/lampernisse.html",
+        "http://vocab.getty.edu/page/tgn/7242501"
+    ]
+  },
+  "recordedAt": {
+    "@type": "Event",
+    "sameAs": "https://en.wikipedia.org/wiki/World_War_I"
+  }
+}]
