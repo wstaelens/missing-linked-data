@@ -1,4 +1,5 @@
-[{
+[
+  {
   "@context": "https://schema.org/",
   "@type": "Photograph",
   "sameAs": "https://www.iwm.org.uk/collections/item/object/205285579",
@@ -48,4 +49,23 @@
     "@type": "Event",
     "sameAs": "https://en.wikipedia.org/wiki/World_War_I"
   }
-}]
+},
+{
+  "@context": "https://schema.org/",
+  "@type": "Photograph",
+  "sameAs": "https://www.iwm.org.uk/collections/item/object/205285430",
+  "contentLocation": {
+    "@type": "City",
+    "name": "Roeselare",
+    "sameAs": [
+        "https://www.geonames.org/2787889/roeselare.html",
+        "http://vocab.getty.edu/page/tgn/7007978"
+    ]
+  },
+  "recordedAt": {
+    "@type": "Event",
+    "sameAs": "https://en.wikipedia.org/wiki/World_War_I"
+  }
+}
+]
+
