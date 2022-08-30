@@ -66,6 +66,56 @@
     "@type": "Event",
     "sameAs": "https://en.wikipedia.org/wiki/World_War_I"
   }
+},
+  {
+  "@context": "https://schema.org/",
+  "@type": "Photograph",
+  "sameAs": "https://www.iwm.org.uk/collections/item/object/205286454",
+  "contentLocation": {
+    "@type": "City",
+    "name": "Torhout",
+    "sameAs": [
+        "https://www.geonames.org/2785364/torhout.html",
+        "http://vocab.getty.edu/page/tgn/7008017"
+    ]
+  },
+  "recordedAt": {
+    "@type": "Event",
+    "sameAs": "https://en.wikipedia.org/wiki/World_War_I"
+  }
+},
+  {
+  "@context": "https://schema.org/",
+  "@type": "Photograph",
+  "sameAs": "https://www.iwm.org.uk/collections/item/object/205286448",
+  "contentLocation": {
+    "@type": "City",
+    "name": "Torhout",
+    "sameAs": [
+        "https://www.geonames.org/2785364/torhout.html",
+        "http://vocab.getty.edu/page/tgn/7008017"
+    ]
+  },
+  "recordedAt": {
+    "@type": "Event",
+    "sameAs": "https://en.wikipedia.org/wiki/World_War_I"
+  }
+},
+  {
+  "@context": "https://schema.org/",
+  "@type": "Photograph",
+  "sameAs": "https://www.iwm.org.uk/collections/item/object/205233495",
+  "contentLocation": {
+    "@type": "City",
+    "name": "Torhout",
+    "sameAs": [
+        "https://www.geonames.org/2785364/torhout.html",
+        "http://vocab.getty.edu/page/tgn/7008017"
+    ]
+  },
+  "recordedAt": {
+    "@type": "Event",
+    "sameAs": "https://en.wikipedia.org/wiki/World_War_I"
+  }
 }
 ]
-
