@@ -117,5 +117,22 @@
     "@type": "Event",
     "sameAs": "https://en.wikipedia.org/wiki/World_War_I"
   }
+},
+  {
+  "@context": "https://schema.org/",
+  "@type": "NewsArticle",
+  "sameAs": "https://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?id=oai%3Awww.internetculturale.sbn.it%2FTeca%3A20%3ANT0000%3AIEI0108305_311760&mode=all&teca=MagTeca+-+ICCU&q=Lichtervelde&fulltext=1&viewType=onepage&mediaType=image&objectIndex=0",
+  "contentLocation": {
+    "@type": "City",
+    "name": "Turfhauwe",
+    "sameAs": [
+        "https://www.geonames.org/2785156/turfhauwe.html",
+        "http://vocab.getty.edu/page/tgn/7253477"
+    ]
+  },
+  "recordedAt": {
+    "@type": "Event",
+    "sameAs": "https://en.wikipedia.org/wiki/World_War_I"
+  }
 }
 ]
