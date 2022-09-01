@@ -1,0 +1,27 @@
+[
+ {
+     "@context": "https://schema.org/",
+  "@type": ["CreativeWork","ArchiveComponent"],
+  "url": "https://invenio.bundesarchiv.de/invenio/direktlink/5ae4156d-ec2c-4970-a8f7-d3676a95c0d6/",
+      "name": "Thourot", 
+    "identifier": "R 901/84521",
+    "holdingArchive": {
+    "@type": "ArchiveOrganization",
+    "name": "Bundesarchiv",
+    "url": "https://www.bundesarchiv.de/"
+  },
+   "inLanguage": "DE",
+    "spatialCoverage": {
+    "@type": "City",
+    "name": "Torhout",
+    "sameAs": [
+        "https://www.geonames.org/2785364/torhout.html",
+        "http://vocab.getty.edu/page/tgn/7008017"
+    ]
+  },  
+"recordedAt": {
+    "@type": "Event",
+    "sameAs": "https://en.wikipedia.org/wiki/World_War_I"
+  }
+  }
+]
